@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GameScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 0
+    path: Assets/Scenes/ChatTestScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/OpeningScreen.unity
+    guid: 4f71ccddfcc07a64fa5fe7b64c977eb4
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 1d0b7dd6e604aed458c191edcfa1e80d
+  - enabled: 1
+    path: Assets/Scenes/PvP.unity
+    guid: 7e561c664aa3b5c4f9d737f4c29d8958
+  - enabled: 1
+    path: Assets/Scenes/YouLoseScene.unity
+    guid: c9983c4a1e6e5b04595efe9449ef27ef
+  - enabled: 1
+    path: Assets/Scenes/YouWinScene.unity
+    guid: 5a70356a4d5d0c14fa6de25027ab34ab
+  - enabled: 0
+    path: Assets/Scenes/YouWinScene.unity
+    guid: 5a70356a4d5d0c14fa6de25027ab34ab
+  - enabled: 0
+    path: Assets/Scenes/RelayTest.unity
+    guid: 2368430b68266224c98ff2e22946206f
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 67aaaee7c1099d447a57cf1731d07ea9, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: c41681380f8f7de4f9d23a1b132d62eb, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 59598c3fc68f3334a895f17b1094e4c6, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

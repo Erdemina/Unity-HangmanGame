@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98a8ec29ee7649d438fcd76e6bdce4c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - losePanel: {instanceID: 0}
+  - P_1: {fileID: 8930912608245659456, guid: d4beff68b488448d0813100000431371, type: 3}
+  - P_2: {fileID: 5510382206488389914, guid: a77f2796fd776459c9b84d0b63c90e3a, type: 3}
+  - sadEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
