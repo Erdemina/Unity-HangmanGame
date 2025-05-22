@@ -72,6 +72,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## Credits
 
 - Developed by [Erdemina](https://github.com/Erdemina)
+- Developed by [baslarbatuhan](https://github.com/baslarbatuhan)
 - Made with [Unity](https://unity.com/)
 
 ---
